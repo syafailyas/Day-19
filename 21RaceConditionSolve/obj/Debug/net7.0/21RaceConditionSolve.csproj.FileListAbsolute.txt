@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 19\21RaceConditionSolve\bin\Debug\net7.0\21RaceConditionSolve.exe
+c:\C#\Bootcamp\vscode\Day 19\21RaceConditionSolve\bin\Debug\net7.0\21RaceConditionSolve.deps.json
+c:\C#\Bootcamp\vscode\Day 19\21RaceConditionSolve\bin\Debug\net7.0\21RaceConditionSolve.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 19\21RaceConditionSolve\bin\Debug\net7.0\21RaceConditionSolve.dll
+c:\C#\Bootcamp\vscode\Day 19\21RaceConditionSolve\bin\Debug\net7.0\21RaceConditionSolve.pdb
+c:\C#\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.dll
+c:\C#\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\refint\21RaceConditionSolve.dll
+c:\C#\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.pdb
+c:\C#\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\ref\21RaceConditionSolve.dll

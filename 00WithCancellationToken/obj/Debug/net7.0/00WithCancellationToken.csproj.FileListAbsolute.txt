@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 19\00WithCancellationToken\bin\Debug\net7.0\00WithCancellationToken.exe
+c:\C#\Bootcamp\vscode\Day 19\00WithCancellationToken\bin\Debug\net7.0\00WithCancellationToken.deps.json
+c:\C#\Bootcamp\vscode\Day 19\00WithCancellationToken\bin\Debug\net7.0\00WithCancellationToken.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 19\00WithCancellationToken\bin\Debug\net7.0\00WithCancellationToken.dll
+c:\C#\Bootcamp\vscode\Day 19\00WithCancellationToken\bin\Debug\net7.0\00WithCancellationToken.pdb
+c:\C#\Bootcamp\vscode\Day 19\00WithCancellationToken\obj\Debug\net7.0\00WithCancellationToken.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 19\00WithCancellationToken\obj\Debug\net7.0\00WithCancellationToken.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 19\00WithCancellationToken\obj\Debug\net7.0\00WithCancellationToken.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 19\00WithCancellationToken\obj\Debug\net7.0\00WithCancellationToken.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 19\00WithCancellationToken\obj\Debug\net7.0\00WithCancellationToken.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 19\00WithCancellationToken\obj\Debug\net7.0\00WithCancellationToken.dll
+c:\C#\Bootcamp\vscode\Day 19\00WithCancellationToken\obj\Debug\net7.0\refint\00WithCancellationToken.dll
+c:\C#\Bootcamp\vscode\Day 19\00WithCancellationToken\obj\Debug\net7.0\00WithCancellationToken.pdb
+c:\C#\Bootcamp\vscode\Day 19\00WithCancellationToken\obj\Debug\net7.0\00WithCancellationToken.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 19\00WithCancellationToken\obj\Debug\net7.0\ref\00WithCancellationToken.dll

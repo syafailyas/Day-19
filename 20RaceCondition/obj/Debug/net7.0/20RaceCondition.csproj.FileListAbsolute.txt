@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 19\20RaceCondition\bin\Debug\net7.0\20RaceCondition.exe
+c:\C#\Bootcamp\vscode\Day 19\20RaceCondition\bin\Debug\net7.0\20RaceCondition.deps.json
+c:\C#\Bootcamp\vscode\Day 19\20RaceCondition\bin\Debug\net7.0\20RaceCondition.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 19\20RaceCondition\bin\Debug\net7.0\20RaceCondition.dll
+c:\C#\Bootcamp\vscode\Day 19\20RaceCondition\bin\Debug\net7.0\20RaceCondition.pdb
+c:\C#\Bootcamp\vscode\Day 19\20RaceCondition\obj\Debug\net7.0\20RaceCondition.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 19\20RaceCondition\obj\Debug\net7.0\20RaceCondition.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 19\20RaceCondition\obj\Debug\net7.0\20RaceCondition.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 19\20RaceCondition\obj\Debug\net7.0\20RaceCondition.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 19\20RaceCondition\obj\Debug\net7.0\20RaceCondition.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 19\20RaceCondition\obj\Debug\net7.0\20RaceCondition.dll
+c:\C#\Bootcamp\vscode\Day 19\20RaceCondition\obj\Debug\net7.0\refint\20RaceCondition.dll
+c:\C#\Bootcamp\vscode\Day 19\20RaceCondition\obj\Debug\net7.0\20RaceCondition.pdb
+c:\C#\Bootcamp\vscode\Day 19\20RaceCondition\obj\Debug\net7.0\20RaceCondition.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 19\20RaceCondition\obj\Debug\net7.0\ref\20RaceCondition.dll
