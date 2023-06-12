@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 19\22RaceConditionMonitor\bin\Debug\net7.0\22RaceConditionMonitor.exe
+c:\C#\Bootcamp\vscode\Day 19\22RaceConditionMonitor\bin\Debug\net7.0\22RaceConditionMonitor.deps.json
+c:\C#\Bootcamp\vscode\Day 19\22RaceConditionMonitor\bin\Debug\net7.0\22RaceConditionMonitor.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 19\22RaceConditionMonitor\bin\Debug\net7.0\22RaceConditionMonitor.dll
+c:\C#\Bootcamp\vscode\Day 19\22RaceConditionMonitor\bin\Debug\net7.0\22RaceConditionMonitor.pdb
+c:\C#\Bootcamp\vscode\Day 19\22RaceConditionMonitor\obj\Debug\net7.0\22RaceConditionMonitor.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 19\22RaceConditionMonitor\obj\Debug\net7.0\22RaceConditionMonitor.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 19\22RaceConditionMonitor\obj\Debug\net7.0\22RaceConditionMonitor.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 19\22RaceConditionMonitor\obj\Debug\net7.0\22RaceConditionMonitor.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 19\22RaceConditionMonitor\obj\Debug\net7.0\22RaceConditionMonitor.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 19\22RaceConditionMonitor\obj\Debug\net7.0\22RaceConditionMonitor.dll
+c:\C#\Bootcamp\vscode\Day 19\22RaceConditionMonitor\obj\Debug\net7.0\refint\22RaceConditionMonitor.dll
+c:\C#\Bootcamp\vscode\Day 19\22RaceConditionMonitor\obj\Debug\net7.0\22RaceConditionMonitor.pdb
+c:\C#\Bootcamp\vscode\Day 19\22RaceConditionMonitor\obj\Debug\net7.0\22RaceConditionMonitor.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 19\22RaceConditionMonitor\obj\Debug\net7.0\ref\22RaceConditionMonitor.dll

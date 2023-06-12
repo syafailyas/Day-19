@@ -3,7 +3,7 @@ static class Program {
 	static async Task Main() 
 	{
 		CancellationTokenSource source = new CancellationTokenSource();
-		var token = source.Token;
+		CancellationToken token = source.Token;
 		
 		Task task = Task.Run(() => DoLongRunningLoop(token));
 		
