@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 19\33_Semaphore\bin\Debug\net7.0\33_Semaphore.exe
+c:\C#\Bootcamp\vscode\Day 19\33_Semaphore\bin\Debug\net7.0\33_Semaphore.deps.json
+c:\C#\Bootcamp\vscode\Day 19\33_Semaphore\bin\Debug\net7.0\33_Semaphore.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 19\33_Semaphore\bin\Debug\net7.0\33_Semaphore.dll
+c:\C#\Bootcamp\vscode\Day 19\33_Semaphore\bin\Debug\net7.0\33_Semaphore.pdb
+c:\C#\Bootcamp\vscode\Day 19\33_Semaphore\obj\Debug\net7.0\33_Semaphore.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 19\33_Semaphore\obj\Debug\net7.0\33_Semaphore.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 19\33_Semaphore\obj\Debug\net7.0\33_Semaphore.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 19\33_Semaphore\obj\Debug\net7.0\33_Semaphore.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 19\33_Semaphore\obj\Debug\net7.0\33_Semaphore.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 19\33_Semaphore\obj\Debug\net7.0\33_Semaphore.dll
+c:\C#\Bootcamp\vscode\Day 19\33_Semaphore\obj\Debug\net7.0\refint\33_Semaphore.dll
+c:\C#\Bootcamp\vscode\Day 19\33_Semaphore\obj\Debug\net7.0\33_Semaphore.pdb
+c:\C#\Bootcamp\vscode\Day 19\33_Semaphore\obj\Debug\net7.0\33_Semaphore.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 19\33_Semaphore\obj\Debug\net7.0\ref\33_Semaphore.dll

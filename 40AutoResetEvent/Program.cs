@@ -14,13 +14,11 @@ class Program
 			Console.WriteLine("Task 1 waiting for signal");
 			await Task.Run(() => autoResetEvent.WaitOne());
 			Console.WriteLine("Task 1 received signal");
-			// MyMethod
 		});
 
 		var task2 = Task.Run(() =>
 		{
 			Console.WriteLine("Task 2 started");
-			// MyMethod
 			Console.WriteLine("Task 2 completed work");
 			autoResetEvent.Set();
 			Console.WriteLine("Task 2 signaled Task 1");

@@ -14,7 +14,7 @@ static class Program
 
             Console.WriteLine("Task 1 waiting for Task 2");
         });
-
+        
         var task2 = Task.Run(async () =>
         {
             Console.WriteLine("Task 2 started");

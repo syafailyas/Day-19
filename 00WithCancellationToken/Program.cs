@@ -2,38 +2,37 @@
 static class Program {
 	static async Task Main() 
 	{
+		Console.WriteLine(Thread.CurrentThread.ManagedThreadId + " main");
 		CancellationTokenSource source = new CancellationTokenSource();
 		CancellationToken token = source.Token;
 		
 		Task task = Task.Run(() => DoLongRunningLoop(token));
+		Task task1 = Task.Run(() => DoCheckUserInput(source));
 		
+		await task;
+		Console.WriteLine("\nProgram finished");
+	}
+	static async Task DoLongRunningLoop(CancellationToken myToken)
+	{
+		Console.WriteLine(Thread.CurrentThread.ManagedThreadId + " DoLongRunningLoop");
+		for (int i = 0; i <= 100; i++) 
+		{
+			if (myToken.IsCancellationRequested) 
+			{
+				return;
+			}
+			Console.WriteLine($"Task : {i} % ");
+			
+			await Task.Delay(10000);
+		}
+		Console.WriteLine($"Task Completed");
+	}
+	static async Task DoCheckUserInput(CancellationTokenSource source) 
+	{
+		Console.WriteLine(Thread.CurrentThread.ManagedThreadId + " DoCheckUserInput");
 		if (Console.ReadKey().KeyChar == ' ') 
 		{
 			source.Cancel();
 		}
-		
-		try
-		{
-			await task;
-		}
-		catch (OperationCanceledException) 
-		{
-			Console.WriteLine("Operation cancelled");
-		}
-		finally 
-		{
-			source.Dispose();
-			Console.WriteLine("Running Loop Finished");
-		}
-	}
-	static async Task DoLongRunningLoop(CancellationToken myToken)
-	{
-		for (int i = 0; i < 100; i++) 
-		{
-			myToken.ThrowIfCancellationRequested();
-			Console.WriteLine($"Task : {i} % ");
-			await Task.Delay(100);
-		}
-		Console.WriteLine($"Task Completed");
 	}
 }

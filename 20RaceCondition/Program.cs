@@ -3,10 +3,10 @@ using System.Threading;
 using System.Threading.Tasks;
 
 static class Program
-{
+{  
 	static int counter = 0;
 
-	static async Task Main(string[] args)
+	static async Task Main()
 	{
 		var task1 = IncrementCounterAsync();
 		var task2 = IncrementCounterAsync();

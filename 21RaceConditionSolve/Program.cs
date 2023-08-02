@@ -9,8 +9,8 @@ static class Program
 
 	static async Task Main(string[] args)
 	{
-		var task1 = IncrementCounterAsync();
-		var task2 = IncrementCounterAsync();
+		var task1 = Task.Run(() => IncrementCounterAsync());
+		var task2 = Task.Run(() => IncrementCounterAsync());
 
 		await Task.WhenAll(task1, task2);
 
