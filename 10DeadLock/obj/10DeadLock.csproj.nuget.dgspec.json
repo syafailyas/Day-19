@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 19\\10DeadLock\\10DeadLock.csproj": {}
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\10DeadLock\\10DeadLock.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 19\\10DeadLock\\10DeadLock.csproj": {
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\10DeadLock\\10DeadLock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 19\\10DeadLock\\10DeadLock.csproj",
+        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\10DeadLock\\10DeadLock.csproj",
         "projectName": "10DeadLock",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 19\\10DeadLock\\10DeadLock.csproj",
+        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\10DeadLock\\10DeadLock.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 19\\10DeadLock\\obj\\",
+        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\10DeadLock\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

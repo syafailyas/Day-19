@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 19\\10DeadLock\\10DeadLock.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\10DeadLock\\10DeadLock.csproj",
       "projectName": "10DeadLock",
-      "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 19\\10DeadLock\\10DeadLock.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\10DeadLock\\10DeadLock.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 19\\10DeadLock\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\10DeadLock\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

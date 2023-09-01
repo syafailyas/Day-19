@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 19\\20RaceCondition\\20RaceCondition.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\20RaceCondition\\20RaceCondition.csproj",
       "projectName": "20RaceCondition",
-      "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 19\\20RaceCondition\\20RaceCondition.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\20RaceCondition\\20RaceCondition.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 19\\20RaceCondition\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\20RaceCondition\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

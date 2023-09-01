@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ql9SWgstUEKJNpzrNeHHRJ9hTr+ukAqdDHOfBGFPXVmmm+EGpFkG1QiKJrXzcpLLP9fEs+L2B4bVDDfjkaSAuQ==",
+  "dgSpecHash": "AwdQny+PuIrB8+pUEY8BTukHr/oYtyUtE0yMgVLhcwDVBblUxZQ3hEwn+clxP1rPpKpPK1pFDpRpbHnc2lsVcw==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 19\\00WithCancellationToken\\00WithCancellationToken.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\00WithCancellationToken\\00WithCancellationToken.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

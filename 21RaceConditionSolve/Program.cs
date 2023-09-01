@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 static class Program
 {
 	static int counter = 0;
-	static object counterLock = new object();
+	static object asd = new object();
 
 	static async Task Main(string[] args)
 	{
@@ -22,11 +22,12 @@ static class Program
 	{
 		for (int i = 0; i < 100; i++)
 		{
-			lock (counterLock)
+			lock (asd)
 			{
-				counter++;
+				counter = counter + 1;
 				Console.WriteLine($"Counter from: {counter}");
 			}
+
 			await Task.Delay(100);
 		}
 

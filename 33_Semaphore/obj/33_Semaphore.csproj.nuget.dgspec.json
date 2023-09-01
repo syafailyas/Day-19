@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 19\\33_Semaphore\\33_Semaphore.csproj": {}
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\33_Semaphore\\33_Semaphore.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 19\\33_Semaphore\\33_Semaphore.csproj": {
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\33_Semaphore\\33_Semaphore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 19\\33_Semaphore\\33_Semaphore.csproj",
+        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\33_Semaphore\\33_Semaphore.csproj",
         "projectName": "33_Semaphore",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 19\\33_Semaphore\\33_Semaphore.csproj",
+        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\33_Semaphore\\33_Semaphore.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 19\\33_Semaphore\\obj\\",
+        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\33_Semaphore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

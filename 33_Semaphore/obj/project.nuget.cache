@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YGhkQ94gq8w/GAbTjw4X6Wj6iHjHzvv5apNQg3bD3ceHGbjCKyAZnXPlFJiTK6y3ElZw4zWPGssJt83d9o1Lcw==",
+  "dgSpecHash": "EORCYerCw2swu1OVIx8/N+fSsRXyX/vevIbUjM1tx2G0uxTBLrul66B/DepxoBlYshMeuCP/qKmPuI8Vqzmbfg==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 19\\33_Semaphore\\33_Semaphore.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\33_Semaphore\\33_Semaphore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

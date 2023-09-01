@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 19\\40AutoResetEvent\\40AutoResetEvent.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\40AutoResetEvent\\40AutoResetEvent.csproj",
       "projectName": "40AutoResetEvent",
-      "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 19\\40AutoResetEvent\\40AutoResetEvent.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\40AutoResetEvent\\40AutoResetEvent.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 19\\40AutoResetEvent\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\40AutoResetEvent\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
