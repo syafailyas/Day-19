@@ -19,13 +19,11 @@ static class Program
                 await Task.Delay(100);
             }
             Console.WriteLine("Task 1 received signal");
-            // Do work here
         });
 
         var task2 = Task.Run(() =>
         {
             Console.WriteLine("Task 2 started");
-            // Do work here
             Console.WriteLine("Task 2 completed work");
             isSignaled = true;
             Console.WriteLine("Task 2 signaled Task 1");
