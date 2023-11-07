@@ -22,7 +22,7 @@ static class Program {
 				return;
 			}
 			Console.WriteLine($"Task : {i} % ");
-			
+
 			await Task.Delay(10000);
 		}
 		Console.WriteLine($"Task Completed");
