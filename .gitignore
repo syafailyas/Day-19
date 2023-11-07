@@ -9,7 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
-
+*.*.cache
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -475,3 +475,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/project.nuget.cache
+/project.nuget.cache
