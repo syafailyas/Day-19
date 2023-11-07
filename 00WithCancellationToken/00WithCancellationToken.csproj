@@ -9,5 +9,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="Program.cs" />
+    <Content Include="obj\00WithCancellationToken.csproj.nuget.dgspec.json" />
   </ItemGroup>
 </Project>
