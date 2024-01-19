@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EORCYerCw2swu1OVIx8/N+fSsRXyX/vevIbUjM1tx2G0uxTBLrul66B/DepxoBlYshMeuCP/qKmPuI8Vqzmbfg==",
+  "dgSpecHash": "y7ExDWUNh+fQIxovVCcRsztYWuKmZciQXH89Zwc0GTy+fYgyEEggvTGXQyKZXwIpJUJRE1ow1nC4IgmivRkzNQ==",
   "success": true,
   "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\33_Semaphore\\33_Semaphore.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

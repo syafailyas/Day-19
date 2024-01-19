@@ -28,7 +28,7 @@ static class Program
 				Monitor.Enter(counterLock, ref lockTaken);
 				counter++;
 				Console.WriteLine($"Counter from: {counter}");
-			}
+			}	
 			finally
 			{
 				if (lockTaken)

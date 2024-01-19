@@ -1,9 +1,8 @@
 c:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\bin\Debug\net7.0\21RaceConditionSolve.exe
-c:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\bin\Debug\net7.0\21RaceConditionSolve.deps.json
-c:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\bin\Debug\net7.0\21RaceConditionSolve.runtimeconfig.json
+C:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\bin\Debug\net7.0\21RaceConditionSolve.deps.json
+C:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\bin\Debug\net7.0\21RaceConditionSolve.runtimeconfig.json
 c:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\bin\Debug\net7.0\21RaceConditionSolve.dll
 c:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\bin\Debug\net7.0\21RaceConditionSolve.pdb
-c:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.csproj.AssemblyReference.cache
 c:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.GeneratedMSBuildEditorConfig.editorconfig
 c:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.AssemblyInfoInputs.cache
 c:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.AssemblyInfo.cs
@@ -11,5 +10,6 @@ c:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceCon
 c:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.dll
 c:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\refint\21RaceConditionSolve.dll
 c:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.pdb
-c:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.genruntimeconfig.cache
-c:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\ref\21RaceConditionSolve.dll
+C:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.genruntimeconfig.cache
+C:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\ref\21RaceConditionSolve.dll
+c:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.sourcelink.json

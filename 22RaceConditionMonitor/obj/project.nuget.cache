@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "v9669pTEmpxSZBjjA+J/CQIqaU3ZhkUhnV84tk3Tcey2a6BdaDfwYX3zePo7UBrS8JV4XZFgXAt6lN/1VZ7ueQ==",
+  "dgSpecHash": "tdd6cSIVVOFnQNA/zeWDkONNODTwGQA2M+FbjDkxrE9WVkv8JTJMylKUGd3dcFLv3JejBeYZ4Fer84jMF6OK9w==",
   "success": true,
-  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\22RaceConditionMonitor\\22RaceConditionMonitor.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day 19\\22RaceConditionMonitor\\22RaceConditionMonitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

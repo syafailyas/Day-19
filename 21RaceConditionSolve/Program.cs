@@ -6,7 +6,6 @@ static class Program
 {
 	static int counter = 0;
 	static object asd = new object(); //Variable for locking
-	static X x = new();
 	static async Task Main(string[] args)
 	{
 		var task1 = Task.Run(() => IncrementCounterAsync());
@@ -22,18 +21,12 @@ static class Program
 	{
 		for (int i = 0; i < 100; i++)
 		{
-			lock (x)
+			lock (asd)
 			{
-				x.counter++;
-				Console.WriteLine($"Counter from: {x.counter}");
+				counter++;
+				Console.WriteLine($"Counter from: {counter}");
 			}
-
 			await Task.Delay(100);
 		}
 	}
-}
-
-class X 
-{
-	public int counter;
 }

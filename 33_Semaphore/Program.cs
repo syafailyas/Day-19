@@ -1,4 +1,5 @@
-﻿using System.Security.AccessControl;
+﻿using Internal.Runtime.Augments;
+using System.Security.AccessControl;
 using System;
 using System.Threading;
 using System.Threading.Tasks;
@@ -7,7 +8,8 @@ namespace SemaphoreDemo
 {
 	class Program
 	{
-		public static Semaphore semaphore = new Semaphore(2, 5);
+		
+		public static SemaphoreSlim semaphore = new SemaphoreSlim(3);
 
 		static async Task Main()
 		{
@@ -27,21 +29,14 @@ namespace SemaphoreDemo
 			Console.WriteLine($"Task {taskId} Wants to Enter");
 			try
 			{   
-				semaphore.WaitOne();
+				semaphore.Wait();
 				Console.WriteLine("Success: Task " + taskId + " is Doing its work");
-				await Task.Delay(5000);
+				await Task.Delay(7000);
 				Console.WriteLine($"Task {taskId} Exit.");
 			}
 			finally
 			{
-				if (index == 2) 
-				{
-					semaphore.Release();
-				}
-				else 
-				{
-					semaphore.Release();
-				}
+				semaphore.Release();
 			}
 		}
 	}

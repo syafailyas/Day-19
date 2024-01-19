@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OHsGzM02lR0wIS69ZS2OjXNFOZwBIO+d9tbpWZUWiL2wECl79hegBOu+JOmwEyFw5MDekOmH7LZLwr8pYxQLzQ==",
+  "dgSpecHash": "VbiH1PpkIKcaBwrvDN/foTFvbJ9KAUpHrhsujDN4lhPQBXOXZkGzruRVBmNORcvUbKnsZoN6YNeHpEo0nwItvQ==",
   "success": true,
   "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\10DeadLock\\10DeadLock.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

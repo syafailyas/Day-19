@@ -1,9 +1,8 @@
 c:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\bin\Debug\net7.0\10DeadLock.exe
-c:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\bin\Debug\net7.0\10DeadLock.deps.json
-c:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\bin\Debug\net7.0\10DeadLock.runtimeconfig.json
+C:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\bin\Debug\net7.0\10DeadLock.deps.json
+C:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\bin\Debug\net7.0\10DeadLock.runtimeconfig.json
 c:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\bin\Debug\net7.0\10DeadLock.dll
 c:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\bin\Debug\net7.0\10DeadLock.pdb
-c:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\obj\Debug\net7.0\10DeadLock.csproj.AssemblyReference.cache
 c:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\obj\Debug\net7.0\10DeadLock.GeneratedMSBuildEditorConfig.editorconfig
 c:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\obj\Debug\net7.0\10DeadLock.AssemblyInfoInputs.cache
 c:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\obj\Debug\net7.0\10DeadLock.AssemblyInfo.cs
@@ -11,5 +10,6 @@ c:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\obj\Debug\net7.0\10DeadLock.csproj.C
 c:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\obj\Debug\net7.0\10DeadLock.dll
 c:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\obj\Debug\net7.0\refint\10DeadLock.dll
 c:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\obj\Debug\net7.0\10DeadLock.pdb
-c:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\obj\Debug\net7.0\10DeadLock.genruntimeconfig.cache
-c:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\obj\Debug\net7.0\ref\10DeadLock.dll
+C:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\obj\Debug\net7.0\10DeadLock.genruntimeconfig.cache
+C:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\obj\Debug\net7.0\ref\10DeadLock.dll
+c:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\obj\Debug\net7.0\10DeadLock.sourcelink.json

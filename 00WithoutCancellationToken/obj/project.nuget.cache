@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "wiaeh1USzP/KN4SyFEPox2REqbrx/e1jQkOm3zoj3wAsc1ayJMplUvTRc/OYSPNM9FM9tBIhIPOiI02+GDusRA==",
+  "dgSpecHash": "LF5K/0kGkhgDR+WNToxrAmpO4FMoZQTLDQH/KD0b6D2jfsa3FL3A2Ob52Da27MEmfx0AqXLCTizrWdW31BZK0Q==",
   "success": true,
-  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\00WithoutCancellationToken\\00WithoutCancellationToken.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day 19\\00WithoutCancellationToken\\00WithoutCancellationToken.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
