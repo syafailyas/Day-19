@@ -13,3 +13,17 @@ c:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\obj\Debug\net7.0\10DeadLock.pdb
 C:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\obj\Debug\net7.0\10DeadLock.genruntimeconfig.cache
 C:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\obj\Debug\net7.0\ref\10DeadLock.dll
 c:\CSharp\Bootcamp\vscode\Day 19\10DeadLock\obj\Debug\net7.0\10DeadLock.sourcelink.json
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\10DeadLock\bin\Debug\net7.0\10DeadLock.exe
+c:\Users\Batch 8\OneDrive\Desktop\Day-19\10DeadLock\bin\Debug\net7.0\10DeadLock.deps.json
+c:\Users\Batch 8\OneDrive\Desktop\Day-19\10DeadLock\bin\Debug\net7.0\10DeadLock.runtimeconfig.json
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\10DeadLock\bin\Debug\net7.0\10DeadLock.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\10DeadLock\bin\Debug\net7.0\10DeadLock.pdb
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\10DeadLock\obj\Debug\net7.0\10DeadLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\10DeadLock\obj\Debug\net7.0\10DeadLock.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\10DeadLock\obj\Debug\net7.0\10DeadLock.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\10DeadLock\obj\Debug\net7.0\10DeadLock.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\10DeadLock\obj\Debug\net7.0\10DeadLock.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\10DeadLock\obj\Debug\net7.0\refint\10DeadLock.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\10DeadLock\obj\Debug\net7.0\10DeadLock.pdb
+c:\Users\Batch 8\OneDrive\Desktop\Day-19\10DeadLock\obj\Debug\net7.0\10DeadLock.genruntimeconfig.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day-19\10DeadLock\obj\Debug\net7.0\ref\10DeadLock.dll

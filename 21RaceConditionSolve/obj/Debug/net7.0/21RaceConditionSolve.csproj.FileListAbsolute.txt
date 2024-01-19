@@ -13,3 +13,17 @@ c:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceCon
 C:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.genruntimeconfig.cache
 C:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\ref\21RaceConditionSolve.dll
 c:\CSharp\Bootcamp\vscode\Day 19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.sourcelink.json
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\21RaceConditionSolve\bin\Debug\net7.0\21RaceConditionSolve.exe
+c:\Users\Batch 8\OneDrive\Desktop\Day-19\21RaceConditionSolve\bin\Debug\net7.0\21RaceConditionSolve.deps.json
+c:\Users\Batch 8\OneDrive\Desktop\Day-19\21RaceConditionSolve\bin\Debug\net7.0\21RaceConditionSolve.runtimeconfig.json
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\21RaceConditionSolve\bin\Debug\net7.0\21RaceConditionSolve.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\21RaceConditionSolve\bin\Debug\net7.0\21RaceConditionSolve.pdb
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\21RaceConditionSolve\obj\Debug\net7.0\refint\21RaceConditionSolve.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.pdb
+c:\Users\Batch 8\OneDrive\Desktop\Day-19\21RaceConditionSolve\obj\Debug\net7.0\21RaceConditionSolve.genruntimeconfig.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day-19\21RaceConditionSolve\obj\Debug\net7.0\ref\21RaceConditionSolve.dll

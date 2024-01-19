@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\21RaceConditionSolve\\21RaceConditionSolve.csproj": {}
+    "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-19\\21RaceConditionSolve\\21RaceConditionSolve.csproj": {}
   },
   "projects": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\21RaceConditionSolve\\21RaceConditionSolve.csproj": {
+    "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-19\\21RaceConditionSolve\\21RaceConditionSolve.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\21RaceConditionSolve\\21RaceConditionSolve.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-19\\21RaceConditionSolve\\21RaceConditionSolve.csproj",
         "projectName": "21RaceConditionSolve",
-        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\21RaceConditionSolve\\21RaceConditionSolve.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\21RaceConditionSolve\\obj\\",
+        "projectPath": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-19\\21RaceConditionSolve\\21RaceConditionSolve.csproj",
+        "packagesPath": "C:\\Users\\Batch 8\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-19\\21RaceConditionSolve\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 8\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -48,30 +48,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

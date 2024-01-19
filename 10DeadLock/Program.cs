@@ -7,28 +7,33 @@ static class Program
 	{
 		Console.WriteLine("Main Method Started");
 		Task task1 = null;
-        Task task2 = null;
-        task1 = Task.Run(async () =>
-		{
-			Console.WriteLine("Task 1 started");
-			await Task.Delay(10);
+		Task task2 = null;
 
-			Console.WriteLine("Task 1 waiting for Task 2");
-			await task2;
+		task1 = Task.Run(
+			async () =>
+			{
+				Console.WriteLine("Task 1 started");
+				await Task.Delay(10);
 
-			Console.WriteLine("Task 1 completed");
-		});
+				Console.WriteLine("Task 1 waiting for Task 2");
+				await task2;
 
-		task2 = Task.Run(async () =>
-		{
-			Console.WriteLine("Task 2 started");
-			await Task.Delay(10);
+				Console.WriteLine("Task 1 completed");
+			}
+		);
 
-			Console.WriteLine("Task 2 waiting for Task 1");
-			await task1;
+		task2 = Task.Run(
+			async () =>
+			{
+				Console.WriteLine("Task 2 started");
+				await Task.Delay(10);
 
-			Console.WriteLine("Task 2 completed");
-		});
+				Console.WriteLine("Task 2 waiting for Task 1");
+				await task1;
+
+				Console.WriteLine("Task 2 completed");
+			}
+		);
 
 		await Task.WhenAll(task1, task2);
 

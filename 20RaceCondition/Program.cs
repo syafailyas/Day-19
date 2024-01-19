@@ -22,8 +22,10 @@ static class Program
 		for (int i = 0; i < 100; i++)
 		{
 			counter++;
-            await Task.Delay(100);
-            Console.WriteLine($"Counter from: {counter}");
+
+			await Task.Delay(100);
+
+			Console.WriteLine($"Counter from: {counter}");
 		}
 	}
 }

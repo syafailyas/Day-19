@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A5ea8zrPJPfnIIJGG2goIX4FQxjFX1uwvOgts28DYBTIKZwmk6+OLRbBbQPzClujtg1HXcIu6lyAOqA8xwBO4A==",
+  "dgSpecHash": "27GjP1XQ/BSDGEdVicfkvfQUtHac6GiNnGnqGRkJkJGn8FZwh1EwoEM5pcO/zdwYjloU1x8dQsYnKe+kUcQCMw==",
   "success": true,
-  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\21RaceConditionSolve\\21RaceConditionSolve.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-19\\21RaceConditionSolve\\21RaceConditionSolve.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

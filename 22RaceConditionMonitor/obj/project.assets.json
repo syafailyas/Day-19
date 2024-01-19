@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kinar\\.nuget\\packages\\": {}
+    "C:\\Users\\Batch 8\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\22RaceConditionMonitor\\22RaceConditionMonitor.csproj",
+      "projectUniqueName": "C:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-19\\22RaceConditionMonitor\\22RaceConditionMonitor.csproj",
       "projectName": "22RaceConditionMonitor",
-      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\22RaceConditionMonitor\\22RaceConditionMonitor.csproj",
-      "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 19\\22RaceConditionMonitor\\obj\\",
+      "projectPath": "C:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-19\\22RaceConditionMonitor\\22RaceConditionMonitor.csproj",
+      "packagesPath": "C:\\Users\\Batch 8\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-19\\22RaceConditionMonitor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Batch 8\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -54,30 +54,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[7.0.14, 7.0.14]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

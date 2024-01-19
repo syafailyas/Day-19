@@ -1,4 +1,4 @@
-﻿using Internal.Runtime.Augments;
+﻿// using Internal.Runtime.Augments;
 using System.Security.AccessControl;
 using System;
 using System.Threading;
@@ -8,16 +8,17 @@ namespace SemaphoreDemo
 {
 	class Program
 	{
-		
 		public static SemaphoreSlim semaphore = new SemaphoreSlim(3);
 
 		static async Task Main()
 		{
 			Task[] tasks = new Task[10];
+
 			for (int i = 1; i <= 10; i++)
 			{
 				int taskId = i;
-				tasks[i - 1] = Task.Run( () =>  DoSomeTask(taskId, i));
+
+				tasks[i - 1] = Task.Run( () =>  DoSomeTask(taskId, i) );
 			}
 
 			await Task.WhenAll(tasks);
@@ -27,6 +28,7 @@ namespace SemaphoreDemo
 		static async void DoSomeTask(int taskId, int index)
 		{
 			Console.WriteLine($"Task {taskId} Wants to Enter");
+
 			try
 			{   
 				semaphore.Wait();
@@ -34,6 +36,7 @@ namespace SemaphoreDemo
 				await Task.Delay(7000);
 				Console.WriteLine($"Task {taskId} Exit.");
 			}
+
 			finally
 			{
 				semaphore.Release();

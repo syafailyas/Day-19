@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _00WithCancellationToken
-build_property.ProjectDir = C:\CSharp\Bootcamp\vscode\Day 19\00WithCancellationToken\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = c:\Users\Batch 8\OneDrive\Desktop\Day-19\00WithCancellationToken\

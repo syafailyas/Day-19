@@ -9,8 +9,8 @@ static class Program
 
 	static async Task Main(string[] args)
 	{
-		var task1 = Task.Run(() => IncrementCounterAsync());
-		var task2 = Task.Run(() => IncrementCounterAsync());
+		var task1 = Task.Run( () => IncrementCounterAsync() );
+		var task2 = Task.Run( () => IncrementCounterAsync() );
 
 		await Task.WhenAll(task1, task2);
 
@@ -23,12 +23,14 @@ static class Program
 		for (int i = 0; i < 100; i++)
 		{
 			bool lockTaken = false;
+
 			try
 			{
 				Monitor.Enter(counterLock, ref lockTaken);
 				counter++;
 				Console.WriteLine($"Counter from: {counter}");
-			}	
+			}
+
 			finally
 			{
 				if (lockTaken)
@@ -36,6 +38,7 @@ static class Program
 					Monitor.Exit(counterLock);
 				}
 			}
+
 			await Task.Delay(100);
 		}
 	}
